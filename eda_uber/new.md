@@ -7,3 +7,4 @@ We have an Uber cab trip dataset wherein details regarding customer_request_id, 
 
 
 3.Do the exploratary analysis on this data..bring all the insights that you can
+  eg.Peak hours ..
